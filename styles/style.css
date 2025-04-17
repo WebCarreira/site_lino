@@ -24,3 +24,10 @@ body{
     border-radius: 10px;
     margin: 10px;
 }
+
+.piscinas{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    margin: 15px;
+}
